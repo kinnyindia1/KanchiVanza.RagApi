@@ -1,0 +1,6 @@
+@KanchiVanza.RagApi_HostAddress = http://localhost:5297
+
+GET {{KanchiVanza.RagApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
